@@ -25,6 +25,8 @@ read_trans.py - plotting script for transmission spectra adapted from ATMO sourc
 
 read_pt.py - plotting script for PT structure adapted from ATMO source code
 
+extend_pt.py - used to add isotherms in the upper atmospheres of thermal structures
+
 read_nasa9.py - read NASA9 coefficients from VULCAN and write them into ATMO
 
 write_atmo.py - write PT structure for ATMO format
